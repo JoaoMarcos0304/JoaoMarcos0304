@@ -1,4 +1,4 @@
-# Hey all! 👋 I'm João Marcos!
+# Olá, sejam bem vindos! Sou o João Marcos! 👋
 
 ### Fullstack Web Developer Student at Trybe :rocket:
 
