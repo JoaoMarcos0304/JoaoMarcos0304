@@ -3,7 +3,7 @@
 ### Fullstack Web Developer Student at Trybe :rocket:
 
 * 🚀  Estudante de desenvolvimento Full Stack na [Trybe](https://www.betrybe.com/)
-* 🌱  Atualmente estou estudando Typescript, Next.js e Angular 🚀
+* 🌱  Atualmente estou estudando Vue.js 🚀
 * 📍   Atualmente morando em Caturama - Bahia
 
 <div> 
