@@ -1,12 +1,12 @@
-# Olá, sejam bem vindos ao meu github!
+# 𝐎𝐢𝐨𝐢𝐢, 𝐬𝐞𝐣𝐚𝐦 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥!! 👋
 
-### Fullstack Web Developer Student at Trybe :rocket:
+### 👾 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳 𝘞𝘦𝘣 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 👾
 
-* 🚀  Estudante de desenvolvimento Full Stack na [Trybe](https://www.betrybe.com/)
-* 🌱  Atualmente estou estudando Vue.js 🚀
-* 📍   Atualmente morando em Caturama - Bahia
+* ✨  Atualmente estudando Design UI 
+* ✨  Atualmente criando projetos fullstack pessoais
+* 🚧  Portfólio em construção  🚧
 
-<div> 
+<div align="center"> 
   <a href = "mailto:joaoribasestu.02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-cruz-ribas-704a03233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
