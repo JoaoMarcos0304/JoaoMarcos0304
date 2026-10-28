@@ -46,9 +46,9 @@
 
   <p align="center">
     <img src="./image/fotocartoon.jpeg" width="230" align="left" style="margin-right: 30px; margin-left: 20px;">
-    Entusiasta de tecnologia com sólida base em Desenvolvimento Web Full Stack e experiência em gestão
+    <h3>Oie, me chamo João Marcos, tenho 22 anos! Sou um entusiasta de tecnologia com sólida base em Desenvolvimento Web Full Stack e experiência em gestão
     operacional. Iniciei a trajetória técnica aos 18 anos através da formação intensiva na Trybe, onde desenvolvi
-    projetos individuais e colaborativos utilizando metodologias ágeis e atualmente cursando Sistemas de Informação.
+    projetos individuais e colaborativos utilizando metodologias ágeis e atualmente cursando Sistemas de Informação.</h3>
   </p>
   
 </section>
