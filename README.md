@@ -1,51 +1,57 @@
-# 𝐎𝐢𝐨𝐢𝐢, 𝐬𝐞𝐣𝐚𝐦 𝐛𝐞𝐦-𝐯𝐢𝐧𝐝𝐨𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥!! 👋
+<section style="max-width: 850px; min-width: 320px; margin: 0 auto;">
 
-### 👾 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳 𝘞𝘦𝘣 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 👾
+  <p align="center">
+    <img src="./image/banner.jpeg" width="100%"/>
+  </p>
 
-* ✨  Atualmente estudando Design UI 
-* ✨  Atualmente criando projetos fullstack pessoais
-* 🚧  Portfólio em construção  🚧
+  <p align="center">
+    <a href="https://www.linkedin.com/in/joaomarcos-cruz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaoribasestu.02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-141210?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
 
-<div align="center"> 
-  <a href = "mailto:joaoribasestu.02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-cruz-ribas-704a03233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <h2 align="center">
+    <i>Technologies</i>
+  </h2>
 
-<div align="center">
-<h2>Ferramentas:</h2>
- 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=blue) 
-![ESlint](https://img.shields.io/badge/-ESlint-black?style=flat-square&logo=eslint&logoColor=purple)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=Bash)
- 
+
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://img.shields.io/badge/Linux-EAD8C5?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Git-EAD8C5?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-EAD8C5?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+        <img src="https://img.shields.io/badge/HTML5-FAD4A5?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-FAD4A5?style=for-the-badge&logo=css&logoColor=black" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-FAD4A5?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-FAD4A5?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-FAD4A5?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Angular-FAD4A5?style=for-the-badge&logo=angular&logoColor=black" alt="Angular" />
+        <img src="https://img.shields.io/badge/Java-C4D6B0?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
+        <img src="https://img.shields.io/badge/Node.js-C4D6B0?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-C4D6B0?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-C4D6B0?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Express-C4D6B0?style=for-the-badge&logo=expressjs&logoColor=black" alt="ExpressJs" />
+        <img src="https://img.shields.io/badge/Jest-BCE6F5?style=for-the-badge&logo=jest&logoColor=black" alt="Jest" />
+        <img src="https://img.shields.io/badge/Mocha-BCE6F5?style=for-the-badge&logo=mocha&logoColor=black" alt="Mocha" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <a href="https://github.com/JoaoMarcos0304" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcos0304&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
+      </td>
+    </tr>
+  </table>
+
+  <h2 align="center">
+    <i>About Me</i>
+  </h2>
+
+  <p align="center">
+    <img src="./image/fotocartoon.jpeg" width="230" align="left" style="margin-right: 30px; margin-left: 20px;">
+    Entusiasta de tecnologia com sólida base em Desenvolvimento Web Full Stack e experiência em gestão
+    operacional. Iniciei a trajetória técnica aos 18 anos através da formação intensiva na Trybe, onde desenvolvi
+    projetos individuais e colaborativos utilizando metodologias ágeis e atualmente cursando Sistemas de Informação.
+  </p>
   
-<h2>Linguagens:</h2>
-  
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=purple)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql)
-![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=blue)
-  
-<h2>Testes:</h2>
-  
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
-![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha&logoColor=brown)
-![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai&logoColor=red)
-![Sinon](https://img.shields.io/badge/-Sinon-black?style=flat-square&logo=sinon)
-![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=red)
-</div>
+</section>
 
-<div width="100%" align="center">
-  <a href="https://github.com/JoaoMarcos0304" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcos0304&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages" /></a>
-</div>
+
+
